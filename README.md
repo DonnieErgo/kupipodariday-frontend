@@ -1,3 +1,1 @@
-# Фронтенд для проекта КупиПодариДай
-
-
+# Frontend for Kupipodariday project
